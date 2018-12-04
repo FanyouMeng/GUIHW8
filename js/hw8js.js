@@ -3,10 +3,9 @@
 // Email: Fanyou_Meng@student.uml.edu
 //
 // 91.61 GUI Programming I
-// Assignment 7:  Using the jQuery Validation Plugin with Your Dynamic Table
-// Description: This is the javascript file for Assignment 7.
-// It tries to use jquery plugin validate to check the user's inputs.
-// If the inputs are validate, it generates a multiplication table.
+// Assignment 8: Using the jQuery UI Slider and Tab Widgets
+// Description: This is the javascript file for Assignment 8.
+// It saves generated table into tabs. Users can use slider to input ranges.
 
 
 $(function() {
