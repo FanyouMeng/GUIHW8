@@ -1,0 +1,91 @@
+/*
+ Name: Fanyou Meng
+ Email: Fanyou_Meng@student.uml.edu
+
+ 91.61 GUI Programming I
+ Assignment 7:  Using the jQuery Validation Plugin with Your Dynamic Table
+ Description: This is the css file for Assignment 7.
+It tries to simply style the web page.
+ */
+
+body {
+  background-color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: auto;
+  font-family: 'Open Sans', sans-serif;
+}
+div {
+  margin: 15px 15px 15px 15px;
+}
+#HlowerSlider{
+  width:184px;
+  height:14px;
+  left:4px;
+  top:12px;
+}
+#HlargerSlider{
+  width:184px;
+  height:14px;
+  left:4px;
+  top:12px;
+}
+#VlowerSlider{
+  width:184px;
+  height:14px;
+  left:4px;
+  top:12px;
+}
+#VlargerSlider{
+  width:184px;
+  height:14px;
+  left:4px;
+  top:12px;
+}
+#custom-handle1 {
+  width: 3em;
+  height: 1.6em;
+  top: 50%;
+  margin-top: -.8em;
+  text-align: center;
+  line-height: 1.6em;
+}
+#custom-handle2 {
+  width: 3em;
+  height: 1.6em;
+  top: 50%;
+  margin-top: -.8em;
+  text-align: center;
+  line-height: 1.6em;
+}
+#custom-handle3 {
+  width: 3em;
+  height: 1.6em;
+  top: 50%;
+  margin-top: -.8em;
+  text-align: center;
+  line-height: 1.6em;
+}
+#custom-handle4 {
+  width: 3em;
+  height: 1.6em;
+  top: 50%;
+  margin-top: -.8em;
+  text-align: center;
+  line-height: 1.6em;
+}
+#container1{
+  padding-left: 50px;
+}
+#container2{
+  padding-left: 50px;
+}
+label.error {
+    color: red;
+    font-style: italic;
+}
+input.error {
+    border: 1px dotted red;
+}
